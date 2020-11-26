@@ -14,7 +14,7 @@ import com.skf.pages.TurbineOverviewPage;
 import com.skf.pages.TurbinePage;
 
 public class TurbineOverview extends Page {
-  @Test(enabled =false )
+  @Test
   public void turbineoverview() throws Exception {
 	  
 	  LoginPage loginPage = new LoginPage();
